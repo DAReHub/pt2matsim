@@ -44,7 +44,7 @@
 		times given by the transit schedule. The freespeed of a link is set to the minimal value needed by all 
 		transit routes passing using it. This is recommended for "artificial", additional 
 		modes (especially "rail", if used) can be added, separated by commas. -->
-		<param name="scheduleFreespeedModes" value="artificial,rail,subway,ferry" />
+		<param name="scheduleFreespeedModes" value="artificial,rail,subway,ferry,bus" />
 		<!-- Defines which link attribute should be used for routing. Possible values "linkLength" (default) 
 		and "travelTime". -->
 		<param name="travelCostType" value="linkLength" />
